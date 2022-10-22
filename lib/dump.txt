@@ -1,0 +1,7 @@
+#problems
+
+
+#new_features_to_be_added
+-loading animation while loading
+-option to open the google sheet 
+-link history with name for each link
